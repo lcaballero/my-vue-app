@@ -32,7 +32,7 @@ webpack-dev-server --inline
 
 ** Client Assets
 
-**** _index.html_
+**** *index.html*
 Take note of the element shown as:
 #+BEGIN_SRC html
 <div id="app">
